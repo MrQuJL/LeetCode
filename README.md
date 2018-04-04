@@ -10,6 +10,7 @@
 
 5. 2018-04-04 [linked-list-cycle-ii](https://github.com/MrQuJL/LeetCode/blob/master/链表/linked-list-cycle-ii.java "linked-list-cycle-ii")
 
+6. 2018-04-04 [sort-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/sort-list.java "sort-list")
 
 
 
