@@ -18,3 +18,5 @@
 
 9. 2018-04-05 [convert-sorted-list-to-binary-search-tree](https://github.com/MrQuJL/LeetCode/blob/master/链表/convert-sorted-list-to-binary-search-tree.java "convert-sorted-list-to-binary-search-tree")
 
+10. 2018-04-05 [word-break](https://github.com/MrQuJL/LeetCode/blob/master/动态规划/word-break.java "word-break")
+
