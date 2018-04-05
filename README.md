@@ -12,5 +12,7 @@
 
 6. 2018-04-04 [sort-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/sort-list.java "sort-list")
 
+7. 2018-04-05 [insertion-sort-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/insertion-sort-list.java "insertion-sort-list")
+
 
 
