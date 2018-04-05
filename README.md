@@ -14,5 +14,7 @@
 
 7. 2018-04-05 [insertion-sort-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/insertion-sort-list.java "insertion-sort-list")
 
+8. 2018-04-05 [copy-list-with-random-pointer](https://github.com/MrQuJL/LeetCode/blob/master/链表/copy-list-with-random-pointer.java "copy-list-with-random-pointer")
+
 
 
