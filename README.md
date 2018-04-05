@@ -20,3 +20,6 @@
 
 10. 2018-04-05 [word-break](https://github.com/MrQuJL/LeetCode/blob/master/动态规划/word-break.java "word-break")
 
+11. 2018-04-05 [candy](https://github.com/MrQuJL/LeetCode/blob/master/动态规划/candy.java "candy")
+
+
