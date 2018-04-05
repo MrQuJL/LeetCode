@@ -35,7 +35,7 @@ public class Solution {
         ListNode slow = head;
         ListNode fast = head.next;
         while (fast != null) {
-            if (fast.val < head.val) { // 从后往前找比slow小的
+            if (fast.val < head.val) { // 从后往前找比slow（基准元素）小的
                 slow = slow.next;
                 swapNodeVal(slow, fast);
             }
