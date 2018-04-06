@@ -26,6 +26,6 @@
 
 13. 2018-04-06 [maximum-depth-of-binary-tree](https://github.com/MrQuJL/LeetCode/blob/master/树/maximum-depth-of-binary-tree.java "maximum-depth-of-binary-tree")
 
-
+14. 2018-04-06 [binary-tree-zigzag-level-order-traversal](https://github.com/MrQuJL/LeetCode/blob/master/树/binary-tree-zigzag-level-order-traversal.java "binary-tree-zigzag-level-order-traversal")
 
 
