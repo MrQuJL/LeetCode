@@ -24,6 +24,8 @@
 
 12. 2018-04-06 [sum-root-to-leaf-numbers](https://github.com/MrQuJL/LeetCode/blob/master/树/sum-root-to-leaf-numbers.java "sum-root-to-leaf-numbers")
 
+13. 2018-04-06 [maximum-depth-of-binary-tree](https://github.com/MrQuJL/LeetCode/blob/master/树/maximum-depth-of-binary-tree.java "maximum-depth-of-binary-tree")
+
 
 
 
