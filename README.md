@@ -30,5 +30,7 @@
 
 15. 2018-04-06 [balanced-binary-tree](https://github.com/MrQuJL/LeetCode/blob/master/树/balanced-binary-tree.java "balanced-binary-tree")
 
+16. 2018-04-07 [best-time-to-buy-and-sell-stock](https://github.com/MrQuJL/LeetCode/blob/master/数组/best-time-to-buy-and-sell-stock.java "best-time-to-buy-and-sell-stock")
+
 
 
