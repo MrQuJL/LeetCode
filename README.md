@@ -38,3 +38,10 @@
 
 19. 2018-04-07 [merge-sorted-array](https://github.com/MrQuJL/LeetCode/blob/master/数组/merge-sorted-array.java "merge-sorted-array")
 
+20. 2018-04-08 [populating-next-right-pointers-in-each-node](https://github.com/MrQuJL/LeetCode/blob/master/树/populating-next-right-pointers-in-each-node.java "populating-next-right-pointers-in-each-node")
+
+
+
+
+
+
