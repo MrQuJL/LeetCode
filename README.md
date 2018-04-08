@@ -40,6 +40,11 @@
 
 20. 2018-04-08 [populating-next-right-pointers-in-each-node](https://github.com/MrQuJL/LeetCode/blob/master/树/populating-next-right-pointers-in-each-node.java "populating-next-right-pointers-in-each-node")
 
+21. 2018-04-08 [populating-next-right-pointers-in-each-node-ii](https://github.com/MrQuJL/LeetCode/blob/master/树/populating-next-right-pointers-in-each-node-ii.java "populating-next-right-pointers-in-each-node-ii")
+
+
+
+
 
 
 
