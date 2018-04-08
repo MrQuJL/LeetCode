@@ -42,10 +42,7 @@
 
 21. 2018-04-08 [populating-next-right-pointers-in-each-node-ii](https://github.com/MrQuJL/LeetCode/blob/master/树/populating-next-right-pointers-in-each-node-ii.java "populating-next-right-pointers-in-each-node-ii")
 
-
-
-
-
+22. 2018-04-08 [rotate-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/rotate-list.java "rotate-list")
 
 
 
