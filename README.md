@@ -54,6 +54,8 @@
 
 27. 2018-04-09 [binary-tree-level-order-traversal-ii](https://github.com/MrQuJL/LeetCode/blob/master/树/binary-tree-level-order-traversal-ii.java "binary-tree-level-order-traversal-ii")
 
+28. 2018-04-09 [validate-binary-search-tree](https://github.com/MrQuJL/LeetCode/blob/master/树/validate-binary-search-tree.java "validate-binary-search-tree")
+
 
 
 
