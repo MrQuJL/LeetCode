@@ -44,6 +44,7 @@
 
 22. 2018-04-08 [rotate-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/rotate-list.java "rotate-list")
 
+23. 2018-04-09 [single-number](https://github.com/MrQuJL/LeetCode/blob/master/数组/single-number.java "single-number")
 
 
 
