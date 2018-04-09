@@ -50,6 +50,8 @@
 
 25. 2018-04-09 [construct-binary-tree-from-preorder-and-inorder-traverse](https://github.com/MrQuJL/LeetCode/blob/master/树/construct-binary-tree-from-preorder-and-inorder-traverse.java "construct-binary-tree-from-preorder-and-inorder-traverse")
 
+26. 2018-04-09 [construct-binary-tree-from-inorder-and-postorder-traverse](https://github.com/MrQuJL/LeetCode/blob/master/树/construct-binary-tree-from-inorder-and-postorder-traverse.java "construct-binary-tree-from-inorder-and-postorder-traverse")
+
 
 
 
