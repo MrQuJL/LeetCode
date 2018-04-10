@@ -56,6 +56,12 @@
 
 28. 2018-04-09 [validate-binary-search-tree](https://github.com/MrQuJL/LeetCode/blob/master/树/validate-binary-search-tree.java "validate-binary-search-tree")
 
+29. 2018-04-10 [search-for-a-range](https://github.com/MrQuJL/LeetCode/blob/master/查找/search-for-a-range.java "search-for-a-range")
+
+
+
+
+
 
 
 
