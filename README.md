@@ -70,6 +70,6 @@
 
 35. 2018-04-10 [spiral-matrix-ii](https://github.com/MrQuJL/LeetCode/blob/master/数组/spiral-matrix-ii.java "spiral-matrix-ii")
 
-36. 2018-04-10 [length-of-last-word](https://github.com/MrQuJL/LeetCode/blob/master/数组/length-of-last-word.java "length-of-last-word")
+36. 2018-04-10 [length-of-last-word](https://github.com/MrQuJL/LeetCode/blob/master/字符串/length-of-last-word.java "length-of-last-word")
 
 
