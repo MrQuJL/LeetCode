@@ -58,7 +58,7 @@
 
 29. 2018-04-10 [search-for-a-range](https://github.com/MrQuJL/LeetCode/blob/master/查找/search-for-a-range.java "search-for-a-range")
 
-
+30. 2018-04-10 [partition-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/partition-list.java "partition-list")
 
 
 
