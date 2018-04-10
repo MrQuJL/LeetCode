@@ -68,8 +68,6 @@
 
 34. 2018-04-10 [remove-duplicates-from-sorted-list-ii](https://github.com/MrQuJL/LeetCode/blob/master/链表/remove-duplicates-from-sorted-list-ii.java "remove-duplicates-from-sorted-list-ii")
 
-
-
-
+35. 2018-04-10 [spiral-matrix-ii](https://github.com/MrQuJL/LeetCode/blob/master/数组/spiral-matrix-ii.java "spiral-matrix-ii")
 
 
