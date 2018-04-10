@@ -66,6 +66,9 @@
 
 33. 2018-04-10 [remove-duplicates-from-sorted-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/remove-duplicates-from-sorted-list.java "remove-duplicates-from-sorted-list")
 
+34. 2018-04-10 [remove-duplicates-from-sorted-list-ii](https://github.com/MrQuJL/LeetCode/blob/master/链表/remove-duplicates-from-sorted-list-ii.java "remove-duplicates-from-sorted-list-ii")
+
+
 
 
 
