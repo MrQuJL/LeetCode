@@ -64,6 +64,9 @@
 
 32. 2018-04-10 [same-tree](https://github.com/MrQuJL/LeetCode/blob/master/树/same-tree.java "same-tree")
 
+33. 2018-04-10 [remove-duplicates-from-sorted-list](https://github.com/MrQuJL/LeetCode/blob/master/链表/remove-duplicates-from-sorted-list.java "remove-duplicates-from-sorted-list")
+
+
 
 
 
