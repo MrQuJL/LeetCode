@@ -78,6 +78,8 @@
 
 39. 2018-04-11 [binary-tree-inorder-traversal](https://github.com/MrQuJL/LeetCode/blob/master/树/binary-tree-inorder-traversal.java "binary-tree-inorder-traversal")
 
+40. 2018-04-11 [two-sum](https://github.com/MrQuJL/LeetCode/blob/master/哈希/two-sum.java "two-sum")
+
 
 
 
