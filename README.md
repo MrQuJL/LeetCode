@@ -74,6 +74,8 @@
 
 37. 2018-04-11 [merge-two-sorted-lists](https://github.com/MrQuJL/LeetCode/blob/master/链表/merge-two-sorted-lists.java "merge-two-sorted-lists")
 
+38. 2018-04-11 [permutations](https://github.com/MrQuJL/LeetCode/blob/master/递归/permutations.java "permutations")
+
 
 
 
