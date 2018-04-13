@@ -1,0 +1,44 @@
+import java.util.LinkedList;
+/**
+ * Definition for binary tree
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+/**
+ * 题目名称：path-sum
+ * 题目描述：
+ * Given a binary tree and a sum, determine if the tree has a root-to-leaf
+ * path such that adding up all the values along the path equals the given sum.
+ * For example:
+ * Given the below binary tree andsum = 22,
+ *               5
+ *              / \
+ *             4   8
+ *            /   / \
+ *           11  13  4
+ *          /  \      \
+ *         7    2      1
+ * return true, as there exist a root-to-leaf path5->4->11->2which sum is 22.
+ */
+public class Solution {
+    /**
+     * 思路：
+     * 反向思维，不一定非要从根节点一直求和求到叶子节点，
+     * 也可以用sum减当前的节点的值减到叶子节点，最后和为0就说明存在路径
+     */
+    public boolean hasPathSum(TreeNode root, int sum) {
+        // 合法性判断
+        if (root == null) {
+            return false;
+        }
+        if (root.left == null && root.right == null && sum - root.val == 0) {
+            return true;
+        }
+        return hasPathSum(root.left, sum - root.val) || hasPathSum(root.right, sum - root.val);
+    }
+    
+}
