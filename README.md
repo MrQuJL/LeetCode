@@ -88,17 +88,7 @@
 
 44. 2018-04-14 [convert-sorted-array-to-binary-search-tree](https://github.com/MrQuJL/LeetCode/blob/master/链表/convert-sorted-array-to-binary-search-tree.java "convert-sorted-array-to-binary-search-tree")
 
-
-
-
-
-
-
-
-
-
-
-
+45. 2018-04-16 [binary-tree-level-order-traversal](https://github.com/MrQuJL/LeetCode/blob/master/树/binary-tree-level-order-traversal.java "binary-tree-level-order-traversal")
 
 
 
