@@ -19,15 +19,15 @@ public class Solution {
         Arrays.fill(candies, 1);
         //从左向右使得当ratings[i] > ratings[i-1]时，candies[i] > candies[i-1]
         for (int i = 1; i < candies.length; i++) {
-            if (ratings[i] > ratings[i - 1]) {
-                candies[i] = Math.max(candies[i] + 1, candies[i - 1]);
+            if (ratings[i] > ratings[i - 1] && candies[i] <= candies[i - 1]) {
+                candies[i] = Math.max(candies[i], candies[i - 1]) + 1;
             }
         }
         sum += candies[candies.length - 1];
 		//从右向左扫描，使得ratings[i] > ratings[i+1]时，candies[i] > candies[i+1]
         for (int i = candies.length - 2; i >= 0; i--) {
-            if (ratings[i] > ratings[i + 1]) {
-                candies[i] = Math.max(candies[i] + 1, candies[i + 1]);
+            if (ratings[i] > ratings[i + 1] && candies[i] <= candies[i + 1]) {
+                candies[i] = Math.max(candies[i], candies[i + 1]) + 1;
             }
             sum += candies[i];
         }
